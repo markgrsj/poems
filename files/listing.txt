@@ -1,4 +1,3 @@
-total 2019
 drwxr-xr-x    1 scott    Administ     8192 Oct 31 12:59 .
 dr-xr-xr-x    9 scott    Administ     4096 Jun  4 16:13 ..
 -rw-r--r--    1 scott    Administ      105 Oct 31 11:30 .gitconfig
@@ -10,7 +9,6 @@ drwxr-xr-x    0 scott    Administ     4096 Oct 31 11:03 Local Settings
 dr-xr-xr-x    1 scott    Administ        0 Sep  5 12:34 Music
 dr-xr-xr-x    0 scott    Administ     4096 Sep 17 10:29 My Documents
 -rw-r--r--    1 scott    Administ    65536 Apr 19  2011 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
--rw-r--r--    1 scott    Administ   524288 Apr 19  2011 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
 -rw-r--r--    1 scott    Administ   524288 Apr 19  2011 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
 drwxr-xr-x    0 scott    Administ        0 Jul 13  2009 NetHood
 dr-xr-xr-x    1 scott    Administ        0 Sep  5 12:34 Pictures
@@ -18,11 +16,9 @@ drwxr-xr-x    0 scott    Administ        0 Jul 13  2009 PrintHood
 dr-xr-xr-x    0 scott    Administ    16384 Oct 29 18:03 Recent
 dr-xr-xr-x    1 scott    Administ        0 Sep  5 12:34 Saved Games
 dr-xr-xr-x    1 scott    Administ        0 Sep  5 12:34 Searches
-dr-xr-xr-x    0 scott    Administ     4096 Apr 19  2011 SendTo
 dr-xr-xr-x    0 scott    Administ        0 Sep  5 12:34 Start Menu
 drwxr-xr-x    0 scott    Administ        0 Jul 13  2009 Templates
 dr-xr-xr-x    1 scott    Administ        0 Sep  5 12:34 Videos
--rw-r--r--    1 scott    Administ     3009 Oct 31 12:59 _viminfo
 -rwxr-xr-x    1 scott    Administ    60864 Oct 31 10:59 g2mdlhlpx.exe
 drwxr-xr-x    3 scott    Administ        0 Oct 31 11:17 git_tut
 -rw-r--r--    1 scott    Administ  2621440 Oct 31 13:08 ntuser.dat
